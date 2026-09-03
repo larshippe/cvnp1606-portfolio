@@ -20,3 +20,8 @@ portal screenshots, logs) — not writeups about work, the work itself.
 
 Built with disclosed, verified AI assistance per the AI Technician's Code
 (see ai-disclosure.md files) — ask me about catching AI mistakes with evidence.
+
+## What I can do now
+
+Week 1: I built and documented a Windows 11 Virtual Machine and created a baseline that can be used as a checkpoint to return to for troubleshooting.
+Week 2:
