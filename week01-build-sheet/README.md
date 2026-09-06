@@ -14,3 +14,9 @@ Steps Taken:
 6. I then created a baseline snapshot to return to if anything goes wrong.
 
 Evidence List:
+step1-proof: Shows that Windows 11 is downloaded and has all the required specs
+step2-proof: Shows that I made the admin account successfully and that I completed the OOBE.
+step3-proof: Shows that I completed all windows updates necessary 
+step4-proof: Shows that I created a standard account for testing and have a separate admin account as required. 
+step5-proof: Shows that I grabbed the computer info successfully and saved the information it gave to a document.
+step6-proof: Shows that I created a successful baseline for the future.
