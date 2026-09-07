@@ -4,7 +4,7 @@ Machine: cvnp1606-lab (VM)
 
 Path Taken: Settings > System > Display > Display Resolution
 
-Evidence: week2step3a1-proof.png
+Evidence: week02-user-faq/week2step1-proof.png
 ### Q2
 Machine: cvnp1606-lab (VM)
 
