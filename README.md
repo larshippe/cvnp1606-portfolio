@@ -24,4 +24,4 @@ Built with disclosed, verified AI assistance per the AI Technician's Code
 ## What I can do now
 
 - Week 1: I built and documented a Windows 11 Virtual Machine and created a baseline that can be used as a checkpoint to return to for troubleshooting.
-- Week 2:
+- Week 2: I built a documented and verified Windows 11 FAQ with common problems that some users may have and tested it in my own environment and documented evidence of the path.
