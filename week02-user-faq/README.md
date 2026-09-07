@@ -20,7 +20,7 @@ Q3: I can't see my printers when trying to print.
 
 Goal: Guide the User to the printer section in the settings using precise instructions to troubleshoot the problem.
 
-A3: Win + X > Device Manager > Printers
+A3: Win + X > Device Manager > Printers. This will show if your printers are present.
 
 ## -----------------------------------------------
 
