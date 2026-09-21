@@ -1,0 +1,10 @@
+﻿
+
+    Directory: C:\HR
+
+
+Path    Owner                 Access                                                                                   
+----    -----                 ------                                                                                   
+Payroll CVNP1606-LAB\acme.com BUILTIN\Administrators Allow  FullControl...                                             
+
+
