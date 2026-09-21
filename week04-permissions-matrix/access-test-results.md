@@ -21,3 +21,10 @@ week04step4create-proof
 week04step4edit-proof
 week04step4delete-proof
 week04step4security-proof
+
+| | HR-Managers | HR-Staff | Audit-Readonly |
+| --- | --- | --- | --- |
+| Read | X | X | X |
+| Edit | X | X | - |
+| Delete | X | - | - |
+| Security | X | - | - |
