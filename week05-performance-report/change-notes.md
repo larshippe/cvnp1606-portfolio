@@ -1,0 +1,7 @@
+Actions Taken:
+
+I opened task manager and ended the powershell programs that are taking up extreme CPU usage. They are taking up all of the resources of the machine.
+
+Reasons Why:
+
+There are no third party apps on the machine that could be doing this. Boot time was not reported as slow and the CPU usage is averaging 100% with small dips down to 97%. The processes that are taking up these resources are powershell commands. Best choice is to shut them down and see if the problem resolves.
