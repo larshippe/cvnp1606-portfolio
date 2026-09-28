@@ -5,3 +5,5 @@ I opened task manager and ended the powershell programs that are taking up extre
 Reasons Why:
 
 There are no third party apps on the machine that could be doing this. Boot time was not reported as slow and the CPU usage is averaging 100% with small dips down to 97%. The processes that are taking up these resources are powershell commands. Best choice is to shut them down and see if the problem resolves.
+
+<img width="961" height="1025" alt="image" src="https://github.com/user-attachments/assets/f339897d-3bf2-4a1b-a036-a1807cd048aa" />
