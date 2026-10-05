@@ -1,0 +1,55 @@
+﻿
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : cvnp1606-lab
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet0:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : Intel(R) 82574L Gigabit Network Connection
+   Physical Address. . . . . . . . . : 00-0C-29-2A-75-0E
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::8e8e:c268:73e0:30ed%10(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.73.128(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Sunday, October 4, 2026 8:38:25 PM
+   Lease Expires . . . . . . . . . . : Sunday, October 4, 2026 9:23:19 PM
+   Default Gateway . . . . . . . . . : 192.168.73.2
+   DHCP Server . . . . . . . . . . . : 192.168.73.254
+   DHCPv6 IAID . . . . . . . . . . . : 100666409
+   DHCPv6 Client DUID. . . . . . . . : 00-01-01-00-32-25-4A-7E-00-0C-29-2A-75-0E
+   DNS Servers . . . . . . . . . . . : 192.168.73.2
+   Primary WINS Server . . . . . . . : 192.168.73.2
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=39ms TTL=128
+Reply from 8.8.8.8: bytes=32 time=41ms TTL=128
+Reply from 8.8.8.8: bytes=32 time=38ms TTL=128
+Reply from 8.8.8.8: bytes=32 time=45ms TTL=128
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 38ms, Maximum = 45ms, Average = 40ms
+Server:  UnKnown
+Address:  192.168.73.2
+
+
+
+ComputerName           : 8.8.8.8
+RemoteAddress          : 8.8.8.8
+RemotePort             : 80
+InterfaceAlias         : Ethernet0
+SourceAddress          : 192.168.73.128
+PingSucceeded          : True
+PingReplyDetails (RTT) : 39 ms
+TcpTestSucceeded       : False
+
+
+
