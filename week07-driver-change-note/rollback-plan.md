@@ -6,8 +6,6 @@ Win + X -> Device Manager -> Check for any error symbols -> Grey means enable, y
 
 Email the IT department at ITbuilding7@acme.com to notify us of the rollback and list the steps you took.
 
-### Do not attempt the fix yourself unless specifically authorized by a member of the IT department.
-
 ## Further Steps
 
 If none of these options work for you, let windows update the drivers. 
