@@ -8,4 +8,4 @@ If none of these options work for you, let windows update the drivers.
 
 If these don't work or you do not see symbols described in the guide above, bring your device, or if desktop computer a list of your problems, to the IT department to get it fixed.
 
-Do not attempt the fix yourself unless specifically authorized by a member of the IT department.
+### Do not attempt the fix yourself unless specifically authorized by a member of the IT department.
