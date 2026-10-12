@@ -1,4 +1,4 @@
-## Rollback plan:
+## Rollback plan: (As of 10/11/2026)
 
 If your internet is no longer working or you have encountered other issues on your device follow these steps:
 
