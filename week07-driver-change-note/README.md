@@ -28,3 +28,8 @@ You are then instructed to document the before state and then write a document i
 - Employ fix
 - Document after state
 - Document rollback plan
+
+## Evidence List:
+- All .md files listed in this folder
+- week7 steps1-6 screenshots of device
+- all .ps1 files used within the VM to simulate and test a driver failure
